@@ -732,6 +732,9 @@ body {
 }
 
 @media (max-width:450px) {
+    .anuncio {
+        padding: .3rem 0;
+    }
     .titulo_curso {
         font-size: 2.2rem;
     }
