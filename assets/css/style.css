@@ -103,7 +103,7 @@ body {
     align-items: center;
 }
 .nav .ul .li {
-    margin: 0 .8rem;
+    margin: 0 1.2rem;
 }
 .nav .ul .li .link {
     color: var(--secundario);
