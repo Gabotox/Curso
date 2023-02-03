@@ -232,6 +232,10 @@ body {
     background: var(--secundario);
     color: var(--principalFondo);
 }
+.descrip_inicio .botoni .btn:nth-child(1) i{
+    margin-left: .5rem;
+    font-size: 1.5rem;
+}
 .descrip_inicio .botoni .btn:nth-child(2){
     margin-left: .7rem;
 }
