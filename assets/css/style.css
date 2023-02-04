@@ -242,6 +242,15 @@ body {
 .descrip_inicio .botoni .btn:nth-child(2) i{
     margin-left: .5rem;
     font-size: 1.3rem;
+    animation: bajar 1s infinite linear;
+}
+@keyframes bajar {
+    0%, 100% {
+        transform: translateY(-10%);
+    }
+    50% {
+        transform: translateY(10%);
+    }
 }
 .descrip_inicio .botoni .btn:hover {
     background: var(--secundario);
